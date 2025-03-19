@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=Rounded&height=250&section=header&text=MIN'S&fontSize=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=_A2A49D&height=250&section=header&text=MIN'S&fontSize=55&animation=fadeOut)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=leeseunming&utm_content=farm">
 <img
