@@ -29,9 +29,6 @@ Here are some ideas to get you started:
   ####   가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) 2020 ~ <br/>
 
   <br/>
-  ## Prize
-  #### 가천대학교 교내 P-Project 장려상 수상 
-  <br/>
   <br/>
   ## :white_check_mark: Tech Stack
   ### Language
