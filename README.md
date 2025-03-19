@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   ####   가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) 2020 ~ <br/>
 
   <br/>
+  ## Prize
+  #### 가천대학교 교내 P-Project 장려상 수상 
   <br/>
   
   ## :white_check_mark: Tech Stack
@@ -49,8 +51,7 @@ Here are some ideas to get you started:
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white">
     
-  ## Prize
-  #### 가천대학교 교내 P-Project 장려상 수상 
+  
   
   ##⚡ Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunming)](https://github.com/anuraghazra/github-readme-stats)
