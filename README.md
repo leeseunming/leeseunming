@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## :bust_in_silhouette: About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
