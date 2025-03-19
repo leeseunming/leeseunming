@@ -1,5 +1,4 @@
 
-
 <!--
 **leeseunming/leeseunming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,11 +24,12 @@ Here are some ideas to get you started:
   <!--Body-->
   
   ## :bust_in_silhouette: About Me
-  ####   이승민 (2000.05.10)
+  #### 이승민 (2000.05.10)
   ####   가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) 2020 ~ <br/>
 
   <br/>
   <br/>
+  
   ## :white_check_mark: Tech Stack
   ### Language
   <!--C#-->
@@ -49,7 +49,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white">
     
   
-  ##⚡ Github Stats
+
+  
+  ## ⚡ Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunming)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunming)](https://github.com/anuraghazra/github-readme-stats)
