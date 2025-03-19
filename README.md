@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   ## :white_check_mark: Tech Stack
   ### Language
   <!--C#-->
-  <img src="https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=C#&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=C%23&logoColor=white&labelColor=8B00FF&color=8B00FF"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--CSS-->
