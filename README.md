@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <!--Figma-->
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFF?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white">
     
   
 
