@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20JunHyeok's%20Github&fontSize=55&animation=fadeIn)
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=leeseunming&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/leeseunming"
